@@ -1,0 +1,9 @@
+**
+!api.py
+!feed_inference.py
+!rgb_baseline.py
+!requirements-production.txt
+!artifacts/
+artifacts/**
+!artifacts/rgb_baseline/
+!artifacts/rgb_baseline/best_rgb_unet.pt
