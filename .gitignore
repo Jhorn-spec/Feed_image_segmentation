@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-local datasets, model weights, and generated outputs
+data/
+artifacts/
+outputs/
+private/
+*.pt
+*.pth
+*.ckpt
+
+# Local environment and operating-system files
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
